@@ -9,4 +9,5 @@ Additionally, it has a calcium score feature which hooks into the MESA calcium s
 
 - DISCLAIMER: This script does NOT save any identifiable patient information, only the accession number and type of study, and it does so locally ONLY. NO SENSITIVE DATA IS TRANSMITTED OR TRANSFERRED.
 - *THIS IS MEANT FOR PERSONAL AND/OR INTERNAL USE WITHIN THE RUSH HOSPITAL SYSTEM, AND I WILL NOT BE HELD LIABLE IF YOU USE THIS IRRESPONSIBLY OR FOR ILLEGAL PURPOSES. HIPAA RULES ARE IMPORTANT, PLEASE RESPECT THEM. USE WITH CAUTION AND AT YOUR OWN RISK.
-- I will not 
+- *** IMPORTANT -- THIS WILL ONLY WORK WITH AUTOHOTKEY VERSION 2.0.18 OR LATER *** Please do not try to use with older versions. 
+- One more time: PLEASE RESPECT HIPAA RULES. I am NOT responsible for how you use this program, and if you do so irresonsibly, I will respond with appropriate legal action. This is not a joke.
